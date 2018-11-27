@@ -1,7 +1,0 @@
-!apps
-*.app
-*.apk
-!screenshots
-screenshots/*.png
-!reports
-reports/*.html
